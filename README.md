@@ -1,4 +1,4 @@
 # First
-Git repository
+Git repository just a code.
 <Br>
 project (kishor hire)
